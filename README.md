@@ -1,6 +1,6 @@
 # CS-210-PL
-SNHU CS-210 Programming Languages
-2022-06-18
+SNHU CS-210 Programming Languages \
+2022-06-18 \
 This repo contains my solution for the final project (Project Three).
 
 _Summarize the project and what problem it was solving._ \
